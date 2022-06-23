@@ -1,0 +1,13 @@
+Flask==2.1.0
+jinja2<3.1.0
+flask_sqlalchemy
+pymysql
+# torch==1.11
+# cuda==11.1
+# flask debug mode command: export FLASK_ENV=development
+# docker MySQL run command: docker exec -it SQL_server bash (requiered docker desktop running)
+# root command: mysql -u root -p
+# mysql command:
+# use User_list;
+# select * from Information;
+# delete from Information where idx=4; (where email is NULL;)
